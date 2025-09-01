@@ -1,0 +1,34 @@
+1. git config --global user.name "Your Name here"
+
+2. git config --global user.email "Your Email here"
+
+3. git config --list
+
+4. For Cloning
+   git clone "repository link"
+
+5. For specific Folder
+   cd "Folder name"
+   cd ..  (to get out of directory)
+
+6. For list of all files in Folder
+   ls
+
+7. For Hidden files
+   ls -a / ls -Force
+
+8. For Status
+   git Status
+
+9. For Adding File
+   git add "File-Name" 
+   git add .   (For all files)
+
+10. For Commit
+   git commit -m "Your Message"
+
+11. For Push
+   git push origin main
+
+12. For new folder/directory
+   mkdir "Directory/Folder Name"
